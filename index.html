@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ATS1071 Tutorial Slides</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-secondary: #8b949e;
+      --accent: #58a6ff;
+      --green: #3fb950;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Space Grotesk', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 3rem 1.5rem;
+    }
+    .container { max-width: 700px; width: 100%; }
+    h1 {
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+    }
+    .subtitle {
+      color: var(--text-secondary);
+      font-size: 1.05rem;
+      margin-bottom: 2rem;
+    }
+    .week {
+      margin-bottom: 2rem;
+    }
+    .week h2 {
+      font-size: 1.1rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.6rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .week ul {
+      list-style: none;
+    }
+    .week li {
+      margin-bottom: 0.4rem;
+    }
+    .week a {
+      display: inline-block;
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 1rem;
+      padding: 0.3rem 0;
+      transition: color 0.15s;
+    }
+    .week a:hover {
+      color: var(--green);
+      text-decoration: underline;
+    }
+    .badge {
+      display: inline-block;
+      font-size: 0.7rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+      margin-left: 0.4rem;
+      vertical-align: middle;
+    }
+    footer {
+      margin-top: 3rem;
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ATS1071 Tutorial Slides</h1>
+    <p class="subtitle">Political Theory &middot; Monash University &middot; Semester 1, 2026</p>
+
+    <div class="week">
+      <h2>Week 1 — Introduction</h2>
+      <ul>
+        <li><a href="week01-introduction-slides.html">Introduction slides</a></li>
+      </ul>
+    </div>
+
+    <div class="week">
+      <h2>Week 2 — Free Speech</h2>
+      <ul>
+        <li><a href="week02-free-speech-slides.html">Free speech slides</a> <span class="badge">generic</span></li>
+        <li><a href="week02-free-speech-slides-10am.html">Free speech slides</a> <span class="badge">10 am</span></li>
+        <li><a href="week02-free-speech-slides-12pm.html">Free speech slides</a> <span class="badge">12 pm</span></li>
+        <li><a href="week02-free-speech-slides-4pm.html">Free speech slides</a> <span class="badge">4 pm</span></li>
+      </ul>
+    </div>
+
+    <footer>
+      <p>Charles Crabtree &middot; <a href="https://charlescrabtree.org">charlescrabtree.org</a> &middot; <a href="mailto:charles.crabtree@monash.edu">charles.crabtree@monash.edu</a></p>
+    </footer>
+  </div>
+</body>
+</html>
