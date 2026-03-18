@@ -26,7 +26,6 @@ This class contract was shaped by what you told us in the Week 1 survey. It refl
 ## 2. Participation in an Online Environment
 
 - We acknowledge that **learning online comes with unique challenges**. Several of you told us you would have preferred in-person classes and that the online format makes engagement harder. We hear you, and we will work to make this tutorial as interactive and engaging as possible.
-- Everyone's voice matters. We follow the principle: **everyone speaks once before anyone speaks twice**.
 - **Cameras on** is encouraged when you're comfortable — it makes discussion feel more connected — but it is not required.
 - Participation takes many forms: speaking, using the chat, responding to polls, contributing to shared documents, and engaging in breakout room activities all count.
 - We will use **breakout rooms for small-group work** to create a more intimate discussion environment and to help build connections with your peers.

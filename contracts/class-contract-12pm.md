@@ -26,7 +26,6 @@ This class contract was shaped by what you told us in the Week 1 survey. It refl
 
 ## 2. Participation
 
-- Everyone's voice matters. We follow the principle: **everyone speaks once before anyone speaks twice**.
 - We recognise that **not everyone is equally comfortable speaking up**. Several of you told us you find it hard to speak in groups or feel nervous about contributing aloud. That's completely fine.
 - Participation takes many forms: speaking, active listening, written contributions, note-taking, and contributing to group deliverables all count.
 - Where possible, we will provide **alternative ways to contribute** (e.g. written responses, Padlet posts) so that quieter voices can still be heard.
